@@ -5,3 +5,9 @@
 .h1 {
     color: rgba(140, 91, 187, 0.575);
 }
+
+.imagenes {
+    width: 300px;
+    height: auto;
+    float: left;
+}
